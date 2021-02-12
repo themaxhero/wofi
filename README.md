@@ -2,7 +2,7 @@
 
 > A dark theme for [wofi](https://hg.sr.ht/~scoopta/wofi).
 
-<!-- ![Screenshot](./screenshot.png) >
+<!-- ![Screenshot](./screenshot.png) -->
 
 ## Install
 To keep being updated you can use.
