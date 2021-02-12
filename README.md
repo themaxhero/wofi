@@ -1,20 +1,21 @@
-# Dracula for [wofi](https://hg.sr.ht/~scoopta/wofi)
+# Monokai for [wofi](https://hg.sr.ht/~scoopta/wofi)
 
 > A dark theme for [wofi](https://hg.sr.ht/~scoopta/wofi).
 
-![Screenshot](./screenshot.png)
+<!-- ![Screenshot](./screenshot.png) >
 
 ## Install
+To keep being updated you can use.
+```bash
+git clone https://github.com/themaxhero/wofi ~/wofi
+mkdir -p ~/.config/wofi
+ln -s ~/wofi/style.css ~/.config/wofi/style.css
+```
 
-All instructions can be found at [draculatheme.com/wofi](https://draculatheme.com/wofi).
+You can also copy style.css in your ~/.config/wofi directory.
 
-## Team
-
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/wofi/graphs/contributors).
-
-[![elumbella](https://avatars3.githubusercontent.com/u/2538681?v=4&s=70)](https://github.com/elumbella) |
---- |
-[elumbella](https://github.com/elumbella) |
+## Disclaimer
+This repo is a fork of [dracula/wofi](https://github.com/dracula/wofi)
 
 ## License
 
