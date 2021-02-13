@@ -8,7 +8,7 @@ window {
   margin: 5px;
   border: none;
   color: #a0e300;
-  background-color: #454353;
+  background-color: #32332b;
 }
 
 #inner-box {
@@ -35,5 +35,5 @@ window {
 } 
 
 #entry:selected {
-  background-color: #454353;
+  background-color: #32332b;
 }
